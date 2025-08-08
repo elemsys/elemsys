@@ -1,4 +1,4 @@
-# <center>ELEMSYS</center>
+# <h1 style="text-align: center;">ELEMSYS</h1>
 
 **elemsys/elemsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
