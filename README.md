@@ -12,3 +12,46 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Presentation Portfolio
+
+## Welcome to My Portfolio
+
+---
+
+### Projects
+
+- **Project 1**: Description of the project.
+- **Project 2**: Description of the project.
+- **Project 3**: Description of the project.
+
+---
+
+### Products
+
+- **Product 1**: Description of the product.
+- **Product 2**: Description of the product.
+- **Product 3**: Description of the product.
+
+---
+
+### About Me
+
+Write a brief introduction about yourself here. Share your background, interests, and what drives you.
+
+---
+
+### How to Reach Me
+
+- **Email**: your.email@example.com
+- **Phone**: +123 456 7890
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [Your GitHub Profile](https://github.com/yourprofile)
+
+---
+
+### Fun Facts
+
+- Fun fact 1
+- Fun fact 2
+- Fun fact 3
