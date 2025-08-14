@@ -44,12 +44,13 @@ Write a brief introduction about yourself here. Share your background, interests
 
 ---
 
-### How to Reach Me
+### Contáctanos
 
-- **Email**: your.email@example.com
-- **Phone**: +123 456 7890
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourprofile)
+- **Email**: elemsys.eei@gmail.com
+- **Phone**: +51 936-487-032 | +51 928-907-284
+- **Facebook**: [Facebook](https://www.facebook.com/elemsys.ee)
+- **Youtube**: [Your GitHub Profile](https://github.com/yourprofile)
+- **TikTok**: [Your GitHub Profile](https://github.com/yourprofile)
 
 ---
 
