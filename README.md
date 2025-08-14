@@ -1,6 +1,6 @@
 <h1 align="center">ELEMSYS</h1>
 <h3 align="center">
-$${\color{cyan} Advanced \;\; Embedded \;\; Systems}$$
+$${\color{336699} Advanced \;\; Embedded \;\; Systems}$$
 </h3>
 
 **elemsys/elemsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Projectos
+### Proyectos
 
 - **Proyecto 1**: Redes Neuronales para la estimación de severidad de roya en hojas de café.
 - **Proyecto 2**: Procesamiento de imágenes en tiempo real.
