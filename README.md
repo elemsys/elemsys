@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - **Project 1**: Serverity estimation of coffe leaf rust using FPGA.
 - **Project 2**: Real-time image processing using FPGAs.
 - **Project 3**: FPGA-based PID controller for speed/position control of a DC motor (⚙️ in development).
-- **Project 4**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](10.1109/INTERCON63140.2024.10833454)
+- **Project 4**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454)
 
 ---
 
