@@ -55,7 +55,7 @@ Write a brief introduction about yourself here. Share your background, interests
 - **TikTok**: [ELEMSYS](https://www.tiktok.com/@elemsys.eei) | [FPGAeduDesign](https://www.tiktok.com/@fpgaedudesign)
 ---
 
-### Fun Facts
+### Noticias
 
 - Fun fact 1
 - Fun fact 2
