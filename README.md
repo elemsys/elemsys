@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Products
 
 - **FPGA NANO 1k**: ✅ Devlopment board based on the [*GOWIN SEMICONDUCTOR*](https://gowinsemi.com/en/) GOW1NZ-LV1 FPGA.
-- **FPGA NANO 9k**: ⚙️ Under development by [*ELEMSYS*](https://github.com/elemsys) team
+- **FPGA NANO 9k**: ⚙️ Under development by [*ELEMSYS*](https://github.com/elemsys) team...
 - **FPGA NANO 25k**: ⏳ Upcomming...
 
 ---
