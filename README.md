@@ -2,7 +2,7 @@
 
 <h1 align="center">ELEMSYS</h1>
 <h3 align="center">
-$$\textcolor[RGB]{51,69,218}{Advanced \;\; Embedded \;\; Systems}$$
+$$\textcolor[RGB]{9,105,218}{Advanced \;\; Embedded \;\; Systems}$$
 </h3>
 
 **elemsys/elemsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
