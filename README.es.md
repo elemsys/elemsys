@@ -10,7 +10,7 @@ $$\textcolor[RGB]{9,155,218}{Advanced \;\; Embedded \;\; Systems}$$
 Tenemos especialistas es:
 
 - 🔭 Diseño, verificación e implementación de sistemas basados en hardware con FPGA 
-- 🌱 Diseño y emsamblado de placas PCBs a medida
+- 🌱 Diseño y ensamblado de placas PCBs a medida
 - 👯 Diseño e impresión de piezas en 3D
 - 🤔 Programación de microcontrolares
 - 😄 Asesoramiento en proyectos de inteligencia artifical, machine learning, visión por computadora.
