@@ -2,7 +2,7 @@
 
 <h1 align="center">ELEMSYS</h1>
 <h3 align="center">
-$$\textcolor[RGB]{91,160,200}{Advanced \;\; Embedded \;\; Systems}$$
+$$\textcolor[RGB]{9,155,218}{Advanced \;\; Embedded \;\; Systems}$$
 </h3>
 
 **ELEMSYS** es un grupo de profesionales dedicados al mundo de la ✨ _electrónica_ ✨, bridando soluciones tecnológicas a los diferentes desafios que se presentan en la sociedad. Abarcamos desde el sector educativo hasta aplicaciones industriales.
