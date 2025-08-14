@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### Productos
 
-- **FPGA NANO 1k**: Placa de desarrollo basada en un chip FPGA de Gowin Semiconductor de 1152 unidades lógicas. 
+- **FPGA NANO 1k**: ✅ Devlopment board based on the [*GOWIN SEMICONDUCTOR*] FPGA GOW1NZ-LV1.
 - **FPGA NANO 9k**: ⚙️ Under development by [*ELEMSYS*](https://github.com/elemsys) team
 - **FPGA NANO 25k**: ⏳ Upcomming...
 
@@ -46,7 +46,7 @@ Write a brief introduction about yourself here. Share your background, interests
 
 ---
 
-### Contáctanos
+### Contact us
 
 - **Email**: elemsys.eei@gmail.com
 - **Phone**: +51 936-487-032 | +51 928-907-284
@@ -55,7 +55,7 @@ Write a brief introduction about yourself here. Share your background, interests
 - **TikTok**: [ELEMSYS](https://www.tiktok.com/@elemsys.eei) | [FPGAeduDesign](https://www.tiktok.com/@fpgaedudesign)
 ---
 
-### Noticias
+### News
 
 - Fun fact 1
 - Fun fact 2
