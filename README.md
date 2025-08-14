@@ -1,6 +1,6 @@
 <h1 align="center">ELEMSYS</h1>
 <h3 align="center">
-$${\color{green} Advanced \;\; Embedded \;\; Systems}$$
+$${\color{blue} Advanced \;\; Embedded \;\; Systems}$$
 </h3>
 
 **elemsys/elemsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
