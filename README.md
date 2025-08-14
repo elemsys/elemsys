@@ -2,7 +2,7 @@
 
 <h1 align="center">ELEMSYS</h1>
 <h3 align="center">
-$$\textcolor[RGB]{9,155,218}{Advanced \;\; Embedded \;\; Systems}$$
+$$\textcolor[RGB]{51,69,218}{Advanced \;\; Embedded \;\; Systems}$$
 </h3>
 
 **elemsys/elemsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,17 +24,18 @@ Here are some ideas to get you started:
 
 ---
 
-### Proyectos
+### Projects
 
-- **Proyecto 1**: Redes Neuronales para la estimación de severidad de roya en hojas de café.
-- **Proyecto 2**: Procesamiento de imágenes en tiempo real.
-- **Proyecto 3**: Control PID de posición/velocidad de un motor DC (proceso de desarrollo).
+- **Project 1**: Serverity estimation of coffe leaf rust using FPGA.
+- **Project 2**: Real-time image processing using FPGAs.
+- **Project 3**: FPGA-based PID controller for speed/position control of a DC motor (⚙️ in development).
+- **Project 3**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](10.1109/INTERCON63140.2024.10833454)
 
 ---
 
-### Productos
+### Products
 
-- **FPGA NANO 1k**: ✅ Devlopment board based on the [*GOWIN SEMICONDUCTOR*](https://gowinsemi.com/en/) FPGA GOW1NZ-LV1.
+- **FPGA NANO 1k**: ✅ Devlopment board based on the [*GOWIN SEMICONDUCTOR*](https://gowinsemi.com/en/) GOW1NZ-LV1 FPGA.
 - **FPGA NANO 9k**: ⚙️ Under development by [*ELEMSYS*](https://github.com/elemsys) team
 - **FPGA NANO 25k**: ⏳ Upcomming...
 
