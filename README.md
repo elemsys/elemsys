@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | [🇪🇸 Español](README.es.md)
+
 <h1 align="center">ELEMSYS</h1>
 <h3 align="center">
 $$\textcolor[RGB]{51,69,218}{Advanced \;\; Embedded \;\; Systems}$$
