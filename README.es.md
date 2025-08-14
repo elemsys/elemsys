@@ -5,22 +5,23 @@
 $$\textcolor[RGB]{51,69,218}{Advanced \;\; Embedded \;\; Systems}$$
 </h3>
 
-**elemsys/elemsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ELEMSYS** es un grupo de profesionales dedicados al mundo de la ✨ _electrónica_ ✨, bridando soluciones tecnológicas a los diferentes desafios que se presentan en la sociedad. Abarcamos desde el sector educativo hasta aplicaciones industriales.
 
-Here are some ideas to get you started:
+Tenemos especialistas es:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 Diseño, verificación e implementación de sistemas basados en hardware con FPGA 
+- 🌱 Diseño y emsamblado de placas PCBs a medida
+- 👯 Diseño e impresión de piezas en 3D
+- 🤔 Programación de microcontrolares
+- 😄 Asesoramiento en proyectos de inteligencia artifical, machine learning, visión por computadora.
+- 💬 Asesoramiento en proyectos de electrónica (robótica, sistemas digitales, circuitos electrónicos, etc)
+- 📫 
+
 - ⚡ Fun fact: ...
 
-# Presentación
+# Presentation Portfolio
 
-## Bienvenido a ELEMSYS
+## Welcome to My Portfolio
 
 ---
 
@@ -49,14 +50,14 @@ Write a brief introduction about yourself here. Share your background, interests
 ### Contáctanos
 
 - **Email**: elemsys.eei@gmail.com
-- **Teléfono**: +51 936-487-032 | +51 928-907-284
+- **Phone**: +51 936-487-032 | +51 928-907-284
 - **Facebook**: [ELEMSYS](https://www.facebook.com/elemsys.ee)
 - **Youtube**: [ELEMSYS](https://www.youtube.com/@elemsys)
 - **TikTok**: [ELEMSYS](https://www.tiktok.com/@elemsys.eei) | [FPGAeduDesign](https://www.tiktok.com/@fpgaedudesign)
 ---
 
-### Fun Facts
+### Noticias
 
-- Fun fact 1
+- Taller de acceso libre para la manipulación de la placa de desarrollo FPGA NANO 1k.
 - Fun fact 2
 - Fun fact 3
