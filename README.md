@@ -48,10 +48,9 @@ Write a brief introduction about yourself here. Share your background, interests
 
 - **Email**: elemsys.eei@gmail.com
 - **Phone**: +51 936-487-032 | +51 928-907-284
-- **Facebook**: [Facebook](https://www.facebook.com/elemsys.ee)
-- **Youtube**: [Your GitHub Profile](https://github.com/yourprofile)
-- **TikTok**: [Your GitHub Profile](https://github.com/yourprofile)
-
+- **Facebook**: [ELEMSYS](https://www.facebook.com/elemsys.ee)
+- **Youtube**: [ELEMSYS](https://www.youtube.com/@elemsys)
+- **TikTok**: [ELEMSYS](https://www.tiktok.com/@elemsys.eei)[FPGAeduDesign](https://www.tiktok.com/@fpgaedudesign)
 ---
 
 ### Fun Facts
