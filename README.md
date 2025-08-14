@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ---
 
-### Products
+### Productos
 
-- **Product 1**: Description of the product.
-- **Product 2**: Description of the product.
+- **FPGA NANO 1k**: Placa de desarrollo basada en un chip FPGA de Gowin Semiconductor.
+- **FPGA NANO 9k**: Placa de entrenamiento basada en FPGA de Gowin Semiconductor.
 - **Product 3**: Description of the product.
 
 ---
