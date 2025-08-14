@@ -50,7 +50,7 @@ Write a brief introduction about yourself here. Share your background, interests
 - **Phone**: +51 936-487-032 | +51 928-907-284
 - **Facebook**: [ELEMSYS](https://www.facebook.com/elemsys.ee)
 - **Youtube**: [ELEMSYS](https://www.youtube.com/@elemsys)
-- **TikTok**: [ELEMSYS](https://www.tiktok.com/@elemsys.eei)[FPGAeduDesign](https://www.tiktok.com/@fpgaedudesign)
+- **TikTok**: [ELEMSYS](https://www.tiktok.com/@elemsys.eei) | [FPGAeduDesign](https://www.tiktok.com/@fpgaedudesign)
 ---
 
 ### Fun Facts
