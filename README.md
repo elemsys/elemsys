@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 - **Proyecto 1**: Redes Neuronales para la estimación de severidad de roya en hojas de café.
 - **Proyecto 2**: Procesamiento de imágenes en tiempo real.
-- **Proyecto 3**: Description of the project.
+- **Proyecto 3**: Control PID de posición/velocidad de un motor DC (proceso de desarrollo).
 
 ---
 
 ### Productos
 
 - **FPGA NANO 1k**: Placa de desarrollo basada en un chip FPGA de Gowin Semiconductor de 1152 unidades lógicas. 
-- **FPGA NANO 9k**: Placa de entrenamiento basada en FPGA de Gowin Semiconductor de 8912 unidades lógicas.
-- **FPGA NANO 25k**: Placa de desarrollo basada en un chip FPGA que tiene 25,000 unidades lógicas.
+- **FPGA NANO 9k**: En proceso de ensamblado...
+- **FPGA NANO 25k**: En proceso de desarrollo...
 
 ---
 
