@@ -1,4 +1,4 @@
-[🇬🇧 English](README.md) | [🇪🇸 Español](README.es.md)
+[🇬🇧 English](README.md) | [🇵🇪 Español](README.es.md)
 
 <h1 align="center">ELEMSYS</h1>
 <h3 align="center">
