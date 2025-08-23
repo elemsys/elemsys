@@ -20,6 +20,7 @@ We specialize in:
 ### Projects
 
 - **Project 1**: Serverity estimation of coffe leaf rust using FPGA.
+[![Watch the video](products/3D_PCB_NANO_1K_2025-07-02.png)](products/fpga_nano1k.mp4)
 - **Project 2**: Real-time image processing using FPGAs.
 - **Project 3**: FPGA-based PID controller for speed/position control of a DC motor (⚙️ in development).
 - **Project 4**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454)
