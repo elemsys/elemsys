@@ -30,6 +30,11 @@ We specialize in:
 
 - [**FPGA NANO 1k**](https://github.com/elemsys/FPGA-NANO-1K/tree/main): ✅ Devlopment board based on the [*GOWIN SEMICONDUCTOR*](https://gowinsemi.com/en/) GOW1NZ-LV1 FPGA.
 [![Watch the video](products/3D_PCB_NANO_1K_2025-07-02.png)](https://github.com/elemsys/elemsys/tree/main/products/fpga_nano1k.mp4)
+
+
+https://github.com/user-attachments/assets/8e457615-cc1c-4874-b13a-70dbdad3f124
+
+
 - **FPGA NANO 9k**: ⚙️ Under development by [*ELEMSYS*](https://github.com/elemsys) team...
 - **FPGA NANO 25k**: ⏳ Upcomming...
 
