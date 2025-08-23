@@ -29,7 +29,7 @@ Nos especializamos en:
 
 ### Productos
 
-- **FPGA NANO 1k**: ✅ Placa de desarrollo basada en un chip FPGA de Gowin Semiconductor de 1152 unidades lógicas. 
+- **[FPGA NANO 1k](https://github.com/elemsys/FPGA-NANO-1K/tree/main)**: ✅ Placa de desarrollo basada en un chip FPGA de Gowin Semiconductor de 1152 unidades lógicas. 
 - **FPGA NANO 9k**: ⚙️En proceso de ensamblado...
 - **FPGA NANO 25k**: ⏳ En proceso de desarrollo...
 
