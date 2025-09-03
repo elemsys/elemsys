@@ -22,7 +22,7 @@ We specialize in:
 - **Project 1**: Serverity estimation of coffe leaf rust using FPGA.
 - **Project 2**: Real-time image processing using FPGAs.
 - **Project 3**: FPGA-based PID controller for speed/position control of a DC motor (⚙️ in development).
-- **Project 4**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454) and [Webots Inverted Pendulum Project](https://github.com/elemsys/InvertedPendulumWebotsV1_0)
+- **Project 4**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454) and the GitHub repo for this project [InvertedPendulumWebotsV1_0](https://github.com/elemsys/InvertedPendulumWebotsV1_0)
 
 ---
 
