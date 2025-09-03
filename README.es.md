@@ -23,7 +23,7 @@ Nos especializamos en:
 - **Proyecto 1**: Redes Neuronales para la estimación de severidad de roya en hojas de café.
 - **Proyecto 2**: Procesamiento de imágenes en tiempo real.
 - **Proyecto 3**: Control PID de posición/velocidad de un motor DC (proceso de desarrollo).
-- **Proyecto 4**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454) y Github del proyecto [InvertedPendulumWebotsV1_0](https://github.com/elemsys/InvertedPendulumWebotsV1_0)
+- **Proyecto 4**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454) y repositorio de GitHub del proyecto [InvertedPendulumWebotsV1_0](https://github.com/elemsys/InvertedPendulumWebotsV1_0)
 ---
 
 ### Productos
