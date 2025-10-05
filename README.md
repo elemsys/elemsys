@@ -5,6 +5,12 @@
 $$\textcolor[RGB]{9,155,218}{Advanced \;\; Embedded \;\; Systems}$$
 </h3>
 
+<p align="center">
+  <a href="https://github.com/elemsys">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=elemsys&style=flat-square&color=blue" />
+  </a>
+</p>
+
 **_Elemsys_** is a team of professionals devoted to ✨ _electronics_ ✨, offering technological solutions to a wide range of societal challenges — from education to industrial applications.
 
 We specialize in:
@@ -36,6 +42,15 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 
 - **FPGA NANO 9k**: ⚙️ Under development by [*ELEMSYS*](https://github.com/elemsys) team...
 - **FPGA NANO 25k**: ⏳ Upcomming...
+
+---
+
+## 📈 GitHub Stats
+
+<!-- You can use “github-readme-stats” here -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elemsys&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</p>
 
 ---
 
