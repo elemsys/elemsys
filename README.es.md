@@ -18,7 +18,7 @@ Nos especializamos en:
 
 ---
 
-### Proyectos
+### 📂 Proyectos
 
 - **Proyecto 1**: Redes Neuronales para la estimación de severidad de roya en hojas de café.
 - **Proyecto 2**: Procesamiento de imágenes en tiempo real.
@@ -26,7 +26,7 @@ Nos especializamos en:
 - **Proyecto 4**: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454) y repositorio de GitHub del proyecto [InvertedPendulumWebotsV1_0](https://github.com/elemsys/InvertedPendulumWebotsV1_0)
 ---
 
-### Productos
+### 📦 Productos
 
 - **[FPGA NANO 1k](https://github.com/elemsys/FPGA-NANO-1K/tree/main)**: ✅ Placa de desarrollo basada en un chip FPGA de Gowin Semiconductor de 1152 unidades lógicas.
 
@@ -39,7 +39,16 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 
 ---
 
-### Contáctanos
+## 📈 GitHub Stats
+
+<!-- You can use “github-readme-stats” here -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elemsys&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</p>
+
+---
+
+### 📬 Contáctanos
 
 - **Email**: elemsys.eei@gmail.com
 - **Phone**: +51 936-487-032 | +51 928-907-284
@@ -48,6 +57,10 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 - **TikTok**: [ELEMSYS](https://www.tiktok.com/@elemsys.eei) | [FPGAeduDesign](https://www.tiktok.com/@fpgaedudesign)
 ---
 
-### Noticias
+### 📰 Noticias
 
 - Taller de acceso libre para la manipulación de la placa de desarrollo FPGA NANO 1k. Agosto 25 del 2025 en la Universidad Nacional de San Antonio Abad del Cusco - Ingeniería Electrónica.
+
+### 📰 News
+
+- Taller práctico del FPGA NANO 1K. Agostos 25, 2025 - Universidad Nacional de San Antonio Abad del Cusco - Departamento de ingeniería electrónica
