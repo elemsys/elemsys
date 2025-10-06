@@ -65,4 +65,4 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 
 ### 📰 News
 
-- Free hands-on workshop on the FPGA NANO 1k development board. August 25, 2025 — National University of San Antonio Abad in Cusco, Department of Electronic Engineering.
+- Free hands-on workshop on the FPGA NANO 1k development board. August 25, 2025 — Universidad Nacional de San Antonio Abad del Cusco - UNSAAC, Department of Electronic Engineering.
