@@ -60,7 +60,3 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 ### 📰 Noticias
 
 - Taller de acceso libre para la manipulación de la placa de desarrollo FPGA NANO 1k. Agosto 25 del 2025 en la Universidad Nacional de San Antonio Abad del Cusco - Ingeniería Electrónica.
-
-### 📰 News
-
-- Taller práctico del FPGA NANO 1K. Agostos 25, 2025 - Universidad Nacional de San Antonio Abad del Cusco - Departamento de ingeniería electrónica
