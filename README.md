@@ -23,7 +23,7 @@ We specialize in:
 - <img src="icons/robot-25.svg" alt="Robot Icon" width="20" height="20" /> Consulting on electronics projects (automatic control, robotics, digital systems and electronic circuits)
 ---
 
-### Projects
+### 📂 Projects
 
 - **Project 1**: Serverity estimation of coffe leaf rust using FPGA.
 - **Project 2**: Real-time image processing using FPGAs.
@@ -32,7 +32,7 @@ We specialize in:
 
 ---
 
-### Products
+### 📦 Products
 
 - [**FPGA NANO 1k**](https://github.com/elemsys/FPGA-NANO-1K/tree/main): ✅ Devlopment board based on the [*GOWIN SEMICONDUCTOR*](https://gowinsemi.com/en/) GOW1NZ-LV1 FPGA.
 
@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 
 ---
 
-### Contact us
+### 📬 Contact us
 
 - **Email**: elemsys.eei@gmail.com
 - **Phone**: +51 936-487-032 | +51 928-907-284
@@ -63,6 +63,6 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 - **TikTok**: [ELEMSYS](https://www.tiktok.com/@elemsys.eei) | [FPGAeduDesign](https://www.tiktok.com/@fpgaedudesign)
 ---
 
-### News
+### 📰 News
 
 - Free hands-on workshop on the FPGA NANO 1k development board. August 25, 2025 — National University of San Antonio Abad in Cusco, Department of Electronic Engineering.
