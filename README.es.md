@@ -5,6 +5,12 @@
 $$\textcolor[RGB]{9,155,218}{Advanced \;\; Embedded \;\; Systems}$$
 </h3>
 
+<p align="center">
+  <a href="https://github.com/elemsys">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=elemsys&style=flat-square&color=blue" />
+  </a>
+</p>
+
 **ELEMSYS** es un grupo de profesionales dedicados al mundo de la ✨ _electrónica_ ✨, bridando soluciones tecnológicas a los diferentes desafios que se presentan en la sociedad, desde el sector educativo hasta aplicaciones industriales.
 
 Nos especializamos en:
