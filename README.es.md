@@ -12,7 +12,7 @@ Nos especializamos en:
 - <img src="icons/fpga.svg" alt="FPGA Icon" width="20" height="20" /> Diseño, verificación e implementación de sistemas basados en hardware con FPGA 
 - <img src="icons/electronics-186.svg" alt="PCB Icon" width="20" height="20" /> Diseño y ensamblado de placas PCBs a medida
 - <img src="icons/3d-printing-1.svg" alt="3D Icon" width="20" height="20" /> Diseño e impresión de piezas en 3D
-- <img src="icons/electronics-5.svg" alt="MCU Icon" width="20" height="20" /> Programación de microcontrolares: ATMEGA, ESP32, PIC, STM32
+- <img src="icons/electronics-5.svg" alt="MCU Icon" width="20" height="20" /> Programación de microcontroladores: ATMEGA, ESP32, PIC, STM32
 - <img src="icons/brain-machine-interface.svg" alt="AI Icon" width="20" height="20" /> Asesoramiento en proyectos de inteligencia artifical, machine learning, visión por computadora
 - <img src="icons/robot-25.svg" alt="Robot Icon" width="20" height="20" /> Asesoramiento en proyectos de electrónica (control automático, robótica, sistemas digitales y circuitos electrónicos)
 
