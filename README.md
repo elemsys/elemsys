@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 
 <!-- You can use “github-readme-stats” here -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elemsys&show_icons=true&theme=radical" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=elemsys&show_icons=true&theme=radical" alt="Your GitHub stats" />
 </p>
 
 ---
